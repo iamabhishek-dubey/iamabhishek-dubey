@@ -33,7 +33,7 @@ I am a 👨‍💻 **DevOps Consultant** working with **[Opstree Solutions](http
 <a href="#"><img height="32" width="32" src="./images/redis.svg" alt="Redis" title="Redis" /></a>
 <a href="#"><img height="32" width="32" src="./images/apachekafka.svg" alt="Kafka" title="Kafka" /></a>
 
-### 🔭 I have experience on ...
+### 🌱 I have experience on ...
 
 <a href="#"><img height="32" width="32" src="./images/openstack.svg" alt="Openstack" title="Openstack" /></a>
 <a href="#"><img height="32" width="32" src="./images/terraform.svg" alt="Terraform" title="Terraform" /></a>
