@@ -12,6 +12,16 @@ I am a 👨‍💻 **DevOps Consultant** working with [Opstree Solutions](https:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iamabhishek_dubey/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/abhishekbhardwaj510)
 
+### 🔭 I’m currently working on ...
+
+<a href="#"><img height="32" width="32" src="./images/kubernetes.svg" alt="Kubernetes" title="Kubernetes" /></a>
+<a href="#"><img height="32" width="32" src="./images/helm.svg" alt="Helm" title="Helm" /></a>
+<a href="#"><img height="32" width="32" src="./images/docker.svg" alt="Docker" title="Docker" /></a>
+<a href="#"><img height="32" width="32" src="./images/linux.svg" alt="Linux" title="Linux" /></a>
+<a href="#"><img height="32" width="32" src="./images/azure.svg" alt="Azure" title="Azure" /></a>
+<a href="#"><img height="32" width="32" src="./images/azuredevops.svg" alt="AzureDevOps" title="AzureDevOps" /></a>
+<a href="#"><img height="32" width="32" src="./images/azurepipelines.svg" alt="AzurePipeline" title="AzurePipeline" /></a>
+
 <!--
 **iamabhishek-dubey/iamabhishek-dubey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
