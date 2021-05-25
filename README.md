@@ -27,11 +27,31 @@ I am a 👨‍💻 **DevOps Consultant** working with **[Opstree Solutions](http
 <a href="#"><img height="32" width="32" src="./images/python.svg" alt="Python" title="Python" /></a>
 <a href="#"><img height="32" width="32" src="./images/amazonaws.svg" alt="AWS" title="AWS" /></a>
 <a href="#"><img height="32" width="32" src="./images/googlecloud.svg" alt="GCP" title="GCP" /></a>
+<a href="#"><img height="32" width="32" src="./images/prometheus.svg" alt="Prometheus" title="Prometheus" /></a>
+<a href="#"><img height="32" width="32" src="./images/grafana.svg" alt="Grafana" title="Grafana" /></a>
+<a href="#"><img height="32" width="32" src="./images/elasticsearch.svg" alt="Elasticsearch" title="Elasticsearch" /></a>
+<a href="#"><img height="32" width="32" src="./images/redis.svg" alt="Redis" title="Redis" /></a>
+<a href="#"><img height="32" width="32" src="./images/apachekafka.svg" alt="Kafka" title="Kafka" /></a>
+
+### 🔭 I can working on ...
+
+<!-- <a href="#"><img height="32" width="32" src="./images/googlecloud.svg" alt="Openstack" title="GCP" /></a>
+<a href="#"><img height="32" width="32" src="./images/git.svg" alt="Terraform" title="Git" /></a>
+<a href="#"><img height="32" width="32" src="./images/github.svg" alt="Packer" title="Github" /></a>
+<a href="#"><img height="32" width="32" src="./images/go.svg" alt="Jenkins" title="Golang" /></a>
+<a href="#"><img height="32" width="32" src="./images/python.svg" alt="ReactJS" title="Python" /></a>
+<a href="#"><img height="32" width="32" src="./images/amazonaws.svg" alt="Ansible" title="AWS" /></a>
+<a href="#"><img height="32" width="32" src="./images/googlecloud.svg" alt="Ruby" title="GCP" /></a>
+<a href="#"><img height="32" width="32" src="./images/googlecloud.svg" alt="Vagrant" title="GCP" /></a>
+<a href="#"><img height="32" width="32" src="./images/googlecloud.svg" alt="Groovy" title="GCP" /></a>
+<a href="#"><img height="32" width="32" src="./images/googlecloud.svg" alt="Bash" title="GCP" /></a>
+<a href="#"><img height="32" width="32" src="./images/googlecloud.svg" alt="Nginx" title="GCP" /></a>
+<a href="#"><img height="32" width="32" src="./images/googlecloud.svg" alt="Puppet" title="GCP" /></a> -->
 
 <!--
 **iamabhishek-dubey/iamabhishek-dubey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get y#F05032ou started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
