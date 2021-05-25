@@ -33,15 +33,15 @@ I am a 👨‍💻 **DevOps Consultant** working with **[Opstree Solutions](http
 <a href="#"><img height="32" width="32" src="./images/redis.svg" alt="Redis" title="Redis" /></a>
 <a href="#"><img height="32" width="32" src="./images/apachekafka.svg" alt="Kafka" title="Kafka" /></a>
 
-### 🔭 I can working on ...
+### 🔭 I can work on ...
 
-<!-- <a href="#"><img height="32" width="32" src="./images/googlecloud.svg" alt="Openstack" title="GCP" /></a>
-<a href="#"><img height="32" width="32" src="./images/git.svg" alt="Terraform" title="Git" /></a>
-<a href="#"><img height="32" width="32" src="./images/github.svg" alt="Packer" title="Github" /></a>
-<a href="#"><img height="32" width="32" src="./images/go.svg" alt="Jenkins" title="Golang" /></a>
-<a href="#"><img height="32" width="32" src="./images/python.svg" alt="ReactJS" title="Python" /></a>
-<a href="#"><img height="32" width="32" src="./images/amazonaws.svg" alt="Ansible" title="AWS" /></a>
-<a href="#"><img height="32" width="32" src="./images/googlecloud.svg" alt="Ruby" title="GCP" /></a>
+<a href="#"><img height="32" width="32" src="./images/openstack.svg" alt="Openstack" title="Openstack" /></a>
+<a href="#"><img height="32" width="32" src="./images/terraform.svg" alt="Terraform" title="Terraform" /></a>
+<a href="#"><img height="32" width="32" src="./images/jenkins.svg" alt="Jenkins" title="Jenkins" /></a>
+<a href="#"><img height="32" width="32" src="./images/react.svg" alt="ReactJS" title="ReactJS" /></a>
+<a href="#"><img height="32" width="32" src="./images/ansible.svg" alt="Ansible" title="Ansible" /></a>
+
+<!-- <a href="#"><img height="32" width="32" src="./images/googlecloud.svg" alt="Ruby" title="GCP" /></a>
 <a href="#"><img height="32" width="32" src="./images/googlecloud.svg" alt="Vagrant" title="GCP" /></a>
 <a href="#"><img height="32" width="32" src="./images/googlecloud.svg" alt="Groovy" title="GCP" /></a>
 <a href="#"><img height="32" width="32" src="./images/googlecloud.svg" alt="Bash" title="GCP" /></a>
