@@ -2,7 +2,7 @@
 
 #### I'm Abhishek
 
-I am a 👨‍💻 **DevOps Consultant** working with [Opstree Solutions](https://opstree.com). I am interested in **DevOps**, **Training**, **Programming**, and **Blogging**. I like to do OpenSource contribution, right now I am contributing to **Kubernetes**, **Openshift**, and **Prometheus** projects.
+I am a 👨‍💻 **DevOps Consultant** working with **[Opstree Solutions](https://opstree.com)**. I am interested in **DevOps**, **Training**, **Programming**, and **Blogging**. I like to do OpenSource contribution, right now I am contributing to **Kubernetes**, **Openshift**, and **Prometheus** projects.
 
 ### 📫 How to reach me
 
@@ -21,6 +21,12 @@ I am a 👨‍💻 **DevOps Consultant** working with [Opstree Solutions](https:
 <a href="#"><img height="32" width="32" src="./images/azure.svg" alt="Azure" title="Azure" /></a>
 <a href="#"><img height="32" width="32" src="./images/azuredevops.svg" alt="AzureDevOps" title="AzureDevOps" /></a>
 <a href="#"><img height="32" width="32" src="./images/azurepipelines.svg" alt="AzurePipeline" title="AzurePipeline" /></a>
+<a href="#"><img height="32" width="32" src="./images/git.svg" alt="Git" title="Git" /></a>
+<a href="#"><img height="32" width="32" src="./images/github.svg" alt="Github" title="Github" /></a>
+<a href="#"><img height="32" width="32" src="./images/go.svg" alt="Golang" title="Golang" /></a>
+<a href="#"><img height="32" width="32" src="./images/python.svg" alt="Python" title="Python" /></a>
+<a href="#"><img height="32" width="32" src="./images/amazonaws.svg" alt="AWS" title="AWS" /></a>
+<a href="#"><img height="32" width="32" src="./images/googlecloud.svg" alt="GCP" title="GCP" /></a>
 
 <!--
 **iamabhishek-dubey/iamabhishek-dubey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
